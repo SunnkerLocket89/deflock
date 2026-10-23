@@ -44,6 +44,6 @@
 		"openai": "^4.0.0"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "10.3.4"
+		"@directus/extensions-sdk": "18.0.6"
 	}
 }
